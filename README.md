@@ -1,5 +1,6 @@
 # HackMate
-## HackMate is a collaborative platform designed to simplify **team formation** for hackathons. Finding the right teammates can be challenging, and HackMate solves this problem through an intelligent **matchmaking system** that connects participants based on their **skills, interests, and project goals**.  
+##
+HackMate is a collaborative platform designed to simplify **team formation** for hackathons. Finding the right teammates can be challenging, and HackMate solves this problem through an intelligent **matchmaking system** that connects participants based on their **skills, interests, and project goals**.  
 
 ### Beyond team formation, HackMate enhances the hackathon experience with:  
 ✅ **AI-driven project idea generation** 💡  
